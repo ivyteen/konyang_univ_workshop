@@ -1,8 +1,8 @@
 import os
 import sys
 import requests
-client_id = "zz58id7hhd"
-client_secret = "M6tkUGtGZn7DtdnCS7TGJ2KWhy0nNPInWZkj3iey"
+client_id = "5a7ujbpf09"
+client_secret = "aNIgCvVKdwD4iMFk6JtpRotkhosHR8llILAMvqx3"
 url = "https://naveropenapi.apigw.ntruss.com/vision-obj/v1/detect"
 
 
