@@ -3,8 +3,8 @@
 import os
 import sys
 import urllib.request
-client_id = "zz58id7hhd"
-client_secret = "M6tkUGtGZn7DtdnCS7TGJ2KWhy0nNPInWZkj3iey"
+client_id = "5a7ujbpf09"
+client_secret = "aNIgCvVKdwD4iMFk6JtpRotkhosHR8llILAMvqx3"
 
 encText = urllib.parse.quote("안녕하세요")
 
